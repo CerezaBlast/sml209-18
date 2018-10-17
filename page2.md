@@ -5,5 +5,5 @@
   
  <hr>
  <o1>
-  <html lang="es"> <li> <u> ¿Quién es Cereza?> </u> </li>
+  <html lang="es"> <li> <u> ¿Quién es Cereza? </u> </li>
     <p> No sé. ;) </p>

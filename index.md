@@ -4,9 +4,9 @@
 <iframe width="800" height="555" src="https://www.youtube.com/embed/O1bJusoBEf8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <p> But I guess I have to also include an image. </p>
-<a href="https://www.youtube.com/embed/O1bJusoBEf8" title= "I am at the APEX of my career.">
+<a href="https://www.youtube.com/embed/O1bJusoBEf8" title="I am at the APEX of my career.">
    
-   <img style="width:70%"; vertical-align:top; border:1px solid #021a40;" src="https://i.imgur.com/HLfyeXf.jpg" alt="Someone drew this as Me as a Fantasy Character. Cool, right?">
+   <img style="width:70%; vertical-align:top; border:1px solid #021a40;" src="https://i.imgur.com/HLfyeXf.jpg" alt="Someone drew this as Me as a Fantasy Character. Cool, right?">
    </a>
 <br>
 <sup> Super cool. </sup> 

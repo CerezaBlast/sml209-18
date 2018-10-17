@@ -5,10 +5,11 @@
 
 <p> But I guess I have to also include an image. </p>
 <img src="https://i.imgur.com/HLfyeXf.jpg" alt="Someone drew this as Me as a Fantasy Character. Cool, right?">
-
+<br>
 <sup> Super cool. </sup> 
 
 <table>  
    <tr> <th> Ways to show you're bothered. </th> <th> Ways to show mild pleasure. </th> </tr>
   <tr> <td> Huh. </td> <td> Huh. . . ! </td> </tr>
 
+<p> You might just find something on Page Two. It might be Week 2's homework. Hoho. </p>

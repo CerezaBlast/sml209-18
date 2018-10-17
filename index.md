@@ -12,4 +12,3 @@
    <tr> <th> Ways to show you're bothered. </th> <th> Ways to show mild pleasure. </tr> </th>
   <tr> <td> Huh. </td> <td> Huh. . . ! </td> </tr>
 
-</html>

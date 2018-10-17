@@ -11,5 +11,5 @@
 <table>  
    <tr> <th> Ways to show you're bothered. </th> <th> Ways to show mild pleasure. </th> </tr>
   <tr> <td> Huh. </td> <td> Huh. . . ! </td> </tr>
-
-<p> You might just find something on Page Two. It might be Week 2's homework. Hoho. </p>
+   <br>
+      <p> You might just find something on Page Two. It might be Week 2's homework. Hoho. </p>

@@ -9,6 +9,6 @@
 <sup> Super cool. </sup> 
 
 <table>  
-   <tr> <th> Ways to show you're bothered. </th> <th> Ways to show mild pleasure. </tr> </th>
+   <tr> <th> Ways to show you're bothered. </th> <th> Ways to show mild pleasure. </th> </tr>
   <tr> <td> Huh. </td> <td> Huh. . . ! </td> </tr>
 

@@ -4,7 +4,7 @@
   <p> Fear not, dear ambitious learner. I'm going to tell everything about me. Try not to fall in love. </p>
   
  <hr>
- <o1>
+ <ol>
   <html lang="es"> <li> <u> ¿Quién es Cereza? </u> </li>
     <p> No sé. ;) </p>
   </html>

@@ -3,4 +3,4 @@
 <p>
   <a style="float:right" href="page4.html"> Back!? </a>
   </p>
-  div style="clear:both;"> </div>
+  <div style="clear:both;"> </div>

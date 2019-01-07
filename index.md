@@ -1,19 +1,20 @@
 <html lang="en">
-   <h1 style="color:red;"> A shameless promotion of my own video, mid module. </h1>
+   <h1> All You Need To Know For A Fun Trip To Spain </h1>
+<h2> Do you want to make the most of a trip to Spain? Look no further - you'll soon know enough to be mistaken as native. <h2>  
+#This page should direct users to other pages. It should be like, if you want to learn about this, go here, if you want to learn about this, go here. In any case. . .
 
-<iframe width="800" height="555" src="https://www.youtube.com/embed/O1bJusoBEf8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<p> But I guess I have to also include an image. </p>
-<a href="https://www.youtube.com/embed/O1bJusoBEf8" title= "I am at the APEX of my career.">
-   
-   <img style="width:70%; vertical-align:top; border:1px solid #021a40;" src="https://i.imgur.com/HLfyeXf.jpg" alt="Someone drew this as Me as a Fantasy Character. Cool, right?">
-   </a>
-   
 <br>
-<sup> Super cool. </sup> 
+<p> Or maybe not, but if you keep reading, we can give it a try. On this website, you'll learn about. . . </p>
+   <dl>
+   <dt> Culture</dt>
+   <dd>This page is mostly about the geography of Spain and the importance of cities. </dd>
+   <dt> Famous Spanish People </dt>
+   <dd>On this page, there will be a variety of important Spanish figures to detail, such as footballers, artists, rulers, musicians, writers, etc. </dd>
+   <dt> Words to Know </dt>
+   <dd>This page aims to prepare the user for a visit to Spain with important words and phrases, with a writing style that reads similary to "If you were to meet a famous person, you could say this." <dt>
+   <dt> Grammar Rules </dt>
+</dl>
+<br>
+<p> Your learning will conclude with a fun interactive test to see if you're ready to visit Spain and fiesta the night away! </p>
 
-<table>  
-   <tr> <th> Ways to show you're bothered. </th> <th> Ways to show mild pleasure. </th> </tr>
-  <tr> <td> Huh. </td> <td> Huh. . . ! </td> </tr>
-   <br>
-      <p> You might just find something on Page Two. It might be Week 2's homework. Hoho. </p>
+#ADD STYLE SHEETS LATER THEY HAVE STRETCHY BUTTONS

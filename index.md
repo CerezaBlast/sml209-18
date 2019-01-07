@@ -1,7 +1,7 @@
 <html lang="en">
    <h1> All You Need To Know For A Fun Trip To Spain </h1>
 <h2> Do you want to make the most of a trip to Spain? Look no further - you'll soon know enough to be mistaken as native. <h2>  
-#This page should direct users to other pages. It should be like, if you want to learn about this, go here, if you want to learn about this, go here. In any case. . .
+<!--This page should direct users to other pages. It should be like, if you want to learn about this, go here, if you want to learn about this, go here. In any case. . . -->
 
 <br>
 <p> Or maybe not, but if you keep reading, we can give it a try. On this website, you'll learn about. . . </p>
@@ -13,8 +13,8 @@
    <dt> Words to Know </dt>
    <dd>This page aims to prepare the user for a visit to Spain with important words and phrases, with a writing style that reads similary to "If you were to meet a famous person, you could say this." <dt>
    <dt> Grammar Rules </dt>
-</dl>
+</d1>
 <br>
 <p> Your learning will conclude with a fun interactive test to see if you're ready to visit Spain and fiesta the night away! </p>
 
-#ADD STYLE SHEETS LATER THEY HAVE STRETCHY BUTTONS
+<!--ADD STYLE SHEETS LATER THEY HAVE STRETCHY BUTTONS-->

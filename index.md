@@ -11,10 +11,12 @@
    <dt> Famous Spanish People </dt>
    <dd>On this page, there will be a variety of important Spanish figures to detail, such as footballers, artists, rulers, musicians, writers, etc. </dd>
    <dt> Words to Know </dt>
-   <dd>This page aims to prepare the user for a visit to Spain with important words and phrases, with a writing style that reads similary to "If you were to meet a famous person, you could say this." <dt>
+   <dd>This page aims to prepare the user for a visit to Spain with important words and phrases, with a writing style that reads similary to "If you were to meet a famous person, you could say this." </dd>
    <dt> Grammar Rules </dt>
-</d1>
-<br>
+   <dd> This part of the website aims to teach the learner basic verb conjugation rules, grammar to note (such as how to create questions and how to form the simple future) and irregular verbs to note </dd>
+   </dl>
+<br>  
+
 <p> Your learning will conclude with a fun interactive test to see if you're ready to visit Spain and fiesta the night away! </p>
 
 <!--ADD STYLE SHEETS LATER THEY HAVE STRETCHY BUTTONS-->

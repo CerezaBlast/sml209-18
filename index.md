@@ -3,7 +3,6 @@
 <h2> Do you want to make the most of a trip to Spain? Look no further - you'll soon know enough to be mistaken as native. <h2>  
 <!--This page should direct users to other pages. It should be like, if you want to learn about this, go here, if you want to learn about this, go here. In any case. . . -->
 
-<br>
 <p> Or maybe not, but if you keep reading, we can give it a try. On this website, you'll learn about. . . </p>
    <dl>
    <dt> Culture</dt>

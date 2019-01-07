@@ -1,5 +1,17 @@
 <h1>Page 3</h1>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l2n167F0eBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+On this page, there will be a variety of important Spanish figures to detail, such as footballers, artists, rulers, musicians, writers, etc. 
 
-<iframe src="https://h5p.org/h5p/embed/345712" width="1090" height="1166" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8">
+This page will:
+
+Provide a handful of famous figures that are recognisable to people with an awareness of Spain, with hope to detail facts that the reader may not know.
+Have a Drag The Word H5P interactive activity
+ 
+
+Sources used: 
+
+https://www.ranker.com/list/famous-people-from-spain/reference
+
+https://www.thefamouspeople.com/spain.php
+
+https://www.gapyear.com/europe/spain/famous-people-from-spain

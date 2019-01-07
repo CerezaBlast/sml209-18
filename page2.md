@@ -1,10 +1,12 @@
-<h1>Another Page</h1>
+<h1>Spain's Culture</h1>
 
-<h2> <em> Oh, Cereza! How will we ever find more out about you? </em> </h2>
-  <p> Fear not, dear ambitious learner. I'm going to tell everything about me. Try not to fall in love. </p>
-  
- <hr>
- <ol>
-  <html lang="es"> <li> <u> ¿Quién es Cereza? </u> </li>
-    <p> No sé. ;) </p>
-  </html>
+<!--Here, famous cities, landmarks and people should be explored. Think about famous people,. . .-->
+
+<ul>
+   <li>Things to know (TEMPERATURE? THE CLIMATE)</li>
+   <li>Cities</li>
+   <li>Food</li>
+   <li>People></li>
+</ul>
+
+<!-- FILL IN THE BLANKS OF WHAT YOU JUST DID WITH AN ACTIVITY + PADDED CONTENT, AND ADD STYLE SHEETS --!>

@@ -6,7 +6,7 @@
  }
  
  dt {
- font-size:30em;
+ font-size:30px;
  }
  
 </style>

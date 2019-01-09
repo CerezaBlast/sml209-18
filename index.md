@@ -22,7 +22,7 @@
    </dl>
 <br>  
 
-<p> Your learning will conclude with a fun interactive test to see if you're ready to visit Spain and fiesta the night away! Use the navigation buttons above to get started. <i> Buena suerte! </i> </p>
+<p> Your learning will conclude with a fun interactive test to see if you're ready to visit Spain and fiesta the night away! Use the navigation buttons above to get started. <i> ¡Buena suerte! </i> </p>
 
 <!--ADD STYLE SHEETS LATER THEY HAVE STRETCHY BUTTONS-->
 

@@ -1,12 +1,6 @@
 <h1>Spain's Culture</h1>
 
-<!--Here, famous cities, landmarks and people should be explored. Think about famous people,. . .-->
-
-<ul>
-   <li>Things to know (TEMPERATURE? THE CLIMATE)</li>
-   <li>Cities</li>
-   <li>Food</li>
-   <li>People></li>
-</ul>
-
-<!-- FILL IN THE BLANKS OF WHAT YOU JUST DID WITH AN ACTIVITY + PADDED CONTENT, AND ADD STYLE SHEETS --!>
+<h2> Here, you will learn all about exciting places to go and see in Spain. <h2>
+ 
+<p> Here is <b> una mapa </b> of Spain. <p>
+<img src="http://www.lonelyplanet.com/maps/europe/spain/map_of_spain.jpg" alt="Una mapa de español" height="42" width="42">

@@ -1,3 +1,6 @@
+<style>
+ dd: {color: black}
+
 <html lang="en">
    <h1> All You Need To Know For A Fun Trip To Spain </h1>
 <h2> Do you want to make the most of a trip to Spain? Look no further - you'll soon know enough to be mistaken as native. <h2>  
@@ -19,3 +22,5 @@
 <p> Your learning will conclude with a fun interactive test to see if you're ready to visit Spain and fiesta the night away! </p>
 
 <!--ADD STYLE SHEETS LATER THEY HAVE STRETCHY BUTTONS-->
+
+</style>

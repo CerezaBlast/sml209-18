@@ -3,13 +3,14 @@
 <style>
  dd { 
  color:black;
- text-align: right;
+  text-align: justify;
+  text-justify: inter-word;
  }
  
  dt {
  font-weight: bold;
  text-align: center;
- font: 1.875em;
+ font: 4000px;
  }
  
 </style>

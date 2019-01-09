@@ -1,8 +1,14 @@
 <html lang="en">
 
 <style>
- dd: {color:black}
- dt: {font-size:30px;}
+ dd {
+ color:black
+ }
+ 
+ dt {
+ font-size:30px;
+ }
+ 
 </style>
 
    <h1> All You Need To Know For A Fun Trip To Spain </h1>

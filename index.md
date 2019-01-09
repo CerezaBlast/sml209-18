@@ -1,8 +1,3 @@
-<style>
- dd: {color: black}
- dt: {font-size: 30px;}
-</style>
-
 <html lang="en">
  
    <h1> All You Need To Know For A Fun Trip To Spain </h1>
@@ -10,6 +5,10 @@
 <!--This page should direct users to other pages. It should be like, if you want to learn about this, go here, if you want to learn about this, go here. In any case. . . -->
 
 <p> Or maybe not, but if you keep reading, we can give it a try. On this website, you'll learn about. . . </p>
+<style>
+ dd: {color: black}
+ dt: {font-size: 30px;}
+
    <dl>
    <dt> Culture</dt>
    <dd>This page is mostly about the geography of Spain and the importance of cities. </dd>
@@ -19,6 +18,7 @@
    <dd>This page aims to prepare the user for a visit to Spain with important words and phrases, with a writing style that reads similary to "If you were to meet a famous person, you could say this." </dd>
    <dt> Grammar Rules </dt>
    <dd> This part of the website aims to teach the learner basic verb conjugation rules, grammar to note (such as how to create questions and how to form the simple future) and irregular verbs to note </dd>
+   </style>
    </dl>
 <br>  
 

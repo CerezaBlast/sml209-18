@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <html>
 <head>
 <h1>Spain's Culture</h1>

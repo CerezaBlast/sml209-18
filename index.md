@@ -7,7 +7,7 @@
   text-justify: inter-word;
  }
  
- dt {
+ helpful {
  font-weight: bold;
  text-align: center;
  font: 4000px;
@@ -21,6 +21,8 @@
 
 <p> Or maybe not, but if you keep reading, we can give it a try. On this website, you'll learn about. . . </p>
 
+
+<h1 class="helpful"> Culture </h1>
    <dl>
    <dt> Culture</dt>
    <dd>This page is mostly about the geography of Spain and the importance of cities. </dd>

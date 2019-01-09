@@ -8,10 +8,14 @@
  
 <body> 
  
- <p> Here is <b> una mapa </b> of <i> España </i>. <p>
-  <a> 
-   <img src="http://www.lonelyplanet.com/maps/europe/spain/map_of_spain.jpg" alt="Una mapa de español" height="300" width="300" style="width:50%;">
+ <p> Here is <b> una mapa </b> of <i> España.</i> <p>
+ 
+ <a href="http://www.lonelyplanet.com/maps/europe/spain/map_of_spain.jpg" title="View source">
+ 
+   <img style="width:50%;" src="http://www.lonelyplanet.com/maps/europe/spain/map_of_spain.jpg" alt="Una mapa de español" height="300" width="300">
    
+ </a>
+ 
  </body>
  
  

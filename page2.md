@@ -10,7 +10,7 @@
  
  <p> Here is <b> una mapa </b> of <i> España </i>. <p>
   <a> 
-   <img src="http://www.lonelyplanet.com/maps/europe/spain/map_of_spain.jpg" alt="Una mapa de español" height="0" width="0" style="width;">
+   <img src="http://www.lonelyplanet.com/maps/europe/spain/map_of_spain.jpg" alt="Una mapa de español" height="300" width="300" style="width;">
    
  </body>
  

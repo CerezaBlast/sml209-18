@@ -1,12 +1,13 @@
 <html lang="en">
 
 <style>
- dd {
- color:black
+ dd { 
+ color:black;
+ text-align: center;
  }
  
  dt {
- font-size: 30px;
+ font-weight: bold;
  text-align: center;
  }
  

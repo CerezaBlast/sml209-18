@@ -12,15 +12,15 @@
   <dl>
    <dt> Madrid </dt>
  <dd> As of the two capitals of Spain, this city has nearly <b> three million people! </b> 
-   <dt> </dt>
+   <dt> Barcelona </dt>
  <dd> </dd>
-   <dt> </dt>
+   <dt> Valencia</dt>
  <dd> </dd>
-   <dt> </dt>
+   <dt> Sevilla </dt>
  <dd> </dd>
-   <dt> </dt>
+   <dt> Zaragoza </dt>
  <dd> </dd>
-   <dt> </dt>
+   <dt> Málaga </dt>
  <dd> </dd>
  
   </ul>

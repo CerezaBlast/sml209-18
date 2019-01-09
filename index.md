@@ -1,6 +1,6 @@
 <style>
  dd: {color: black}
- dt: {font-size: 20px;}
+ dt: {font-size: 30px;}
 </style>
 
 <html lang="en">

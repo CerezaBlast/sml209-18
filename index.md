@@ -22,6 +22,6 @@
 
 <p> Your learning will conclude with a fun interactive test to see if you're ready to visit Spain and fiesta the night away! Use the navigation buttons above to get started and explore. </p>
 
-<div> <i> ¡Buena suerte! </i> </div>
+<div style="text-align: right"> <i> ¡Buena suerte! </i> </div>
 
 

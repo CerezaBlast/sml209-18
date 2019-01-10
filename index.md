@@ -1,21 +1,5 @@
 <html lang="en">
 
-<style>
-#words { 
-  color:black;
-  text-align: justify;
-  text-justify: inter-word;
-  text-size: 1em;
- }
- 
-#table {
- font-weight: bold;
- text-align: center;
- font: 1.875em;
- }
- 
-</style>
-
    <h1> All You Need To Know For A Fun Trip To Spain </h1>
 <h2> Do you want to make the most of a trip to Spain? Look no further - you'll soon know enough to blend in with the natives. <h2>  
 

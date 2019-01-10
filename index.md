@@ -18,7 +18,6 @@
 
    <h1> All You Need To Know For A Fun Trip To Spain </h1>
 <h2> Do you want to make the most of a trip to Spain? Look no further - you'll soon know enough to blend in with the natives. <h2>  
-<!--This page should direct users to other pages. It should be like, if you want to learn about this, go here, if you want to learn about this, go here. In any case. . . -->
 
 <p> Or maybe not, but if you keep reading, we can give it a try. On this website, you'll learn about. . . </p>
 
@@ -40,7 +39,5 @@
 <p> Your learning will conclude with a fun interactive test to see if you're ready to visit Spain and fiesta the night away! Use the navigation buttons above to get started and explore. </p>
 
 <div> <i> ¡Buena suerte! </i> </div>
-
-<!--ADD STYLE SHEETS LATER THEY HAVE STRETCHY BUTTONS-->
 
 

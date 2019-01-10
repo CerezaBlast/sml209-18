@@ -24,7 +24,7 @@
 
 
 <h1 class="contents"> 
-   <div id="table"> Culture </div>
+   <div id="table"> Culture!! </div>
    <dl>
    <dt> Culture</dt>
    <dd>This page is mostly about the geography of Spain and the importance of cities. </dd>

@@ -6,11 +6,11 @@
 <p> Or maybe not, but if you keep reading, we can give it a try. On this website, you'll learn about. . . </p>
 
 
-   <div id="table"> Culture!! </div>
+   <div id="table"> Culture </div>
    <div id="words">This page is mostly about the geography of Spain and the importance of cities. </div>
    
    <div id="table"> Famous Spanish People </div>
-   <dd>On this page, there will be a variety of important Spanish figures to detail, such as footballers, artists, rulers, musicians, writers, etc. </div>
+   <div id="words"> On this page, there will be a variety of important Spanish figures to detail, such as footballers, artists, rulers, musicians, writers, etc. </div>
    
    <div id="table"> Words to Know </div>
    <div id="words">This page aims to prepare the user for a visit to Spain with important words and phrases, with a writing style that reads similary to "If you were to meet a famous person, you could say this." </div>

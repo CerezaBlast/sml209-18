@@ -3,24 +3,24 @@
    <h1> All You Need To Know For A Fun Trip To Spain </h1>
 <h2> Do you want to make the most of a trip to Spain? Look no further - you'll soon know enough to blend in with the natives. <h2>  
 
-<p> Or maybe not, but if you keep reading, we can give it a try. On this website, you'll learn about. . . </p>
+<div> Or maybe not, but if you keep reading, we can give it a try. On this website, you'll learn about. . . </div>
 
 
    <div id="table"> Culture </div>
-   <div id="words">This page is mostly about the geography of Spain and the importance of cities. </div>
+   <div id="words"> On this page, we will learn about the main cities of Spain and what they're known for. We will find out about events, famous people, great food, and finish with an activity. </div>
    
    <div id="table"> Famous Spanish People </div>
-   <div id="words"> On this page, there will be a variety of important Spanish figures to detail, such as footballers, artists, rulers, musicians, writers, etc. </div>
+   <div id="words"> Here, we will find out about the different famous people of Spain and how they have enriched our world. There are authors, actors and artists to get to know, and <i> mucho más! </i>   </div>
    
    <div id="table"> Words to Know </div>
-   <div id="words">This page aims to prepare the user for a visit to Spain with important words and phrases, with a writing style that reads similary to "If you were to meet a famous person, you could say this." </div>
+   <div id="words"> Now, you can learn essential vocabulary for every day Spanish life. We'll cover pronunciation firstly, and then move on to useful phrases.   </div>
    
    <div id="table"> Grammar Rules </div>
-   <div id="words"> This part of the website aims to teach the learner basic verb conjugation rules, grammar to note (such as how to create questions and how to form the simple future) and irregular verbs to note </div>
+   <div id="words"> With this page, we can begin to construct unique sentences by explaining the basics of Spanish so that you can take your own vocabulary and impress your <i> amigos. </i>  </div>
    
 <br>  
 
-<p> Your learning will conclude with a fun interactive test to see if you're ready to visit Spain and fiesta the night away! Use the navigation buttons above to get started and explore. </p>
+<p> Our learning will conclude with a fun interactive test to see if you're ready to visit Spain and fiesta the night away! Use the navigation buttons above to get started and explore. </p>
 
 <div style="text-align: right"> <i> ¡Buena suerte! </i> </div>
 

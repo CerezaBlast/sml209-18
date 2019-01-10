@@ -1,6 +1,6 @@
 <html lang="en">
 
-   <h1> All You Need To Know For A Fun Trip To Spain </h1>
+   <h1 id="table"> All You Need To Know For A Fun Trip To Spain </h1>
    <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" alt="A flag of Spain." class="center" style="align:centre;">
 <h2> Do you want to make the most of a trip to Spain? Look no further - you'll soon know enough to blend in with the natives. <h2>  
 

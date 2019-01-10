@@ -9,17 +9,16 @@
 
    <div id="table"> Culture </div>
    <div id="words"> On this page, we will learn about the main cities of Spain and what they're known for. We will find out about events, famous people, great food, and finish with an activity. </div>
-   
+   <br>
    <div id="table"> Famous Spanish People </div>
    <div id="words"> Here, we will find out about the different famous people of Spain and how they have enriched our world. There are authors, actors and artists to get to know, and <i> mucho más! </i>   </div>
-   
+   <br>
    <div id="table"> Words to Know </div>
    <div id="words"> Now, you can learn essential vocabulary for every day Spanish life. We'll cover pronunciation firstly, and then move on to useful phrases.   </div>
-   
+   <br>
    <div id="table"> Grammar Rules </div>
    <div id="words"> With this page, we can begin to construct unique sentences by explaining the basics of Spanish so that you can take your own vocabulary and impress your <i> amigos. </i>  </div>
-   
-<br>  
+   <br>  
 
 <p> Our learning will conclude with a fun interactive test to see if you're ready to visit Spain and <i> fiesta </i> the night away! Use the navigation buttons above to get started and explore. </p>
 

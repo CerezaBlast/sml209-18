@@ -2,15 +2,16 @@
 
 <style>
  dd { 
- color:black;
+  color:black;
   text-align: justify;
   text-justify: inter-word;
+  text-size: 1em;
  }
  
 #table {
  font-weight: bold;
  text-align: center;
- font: 1.875px;
+ font: 1.875em;
  }
  
 </style>
@@ -36,7 +37,9 @@
    </dl>
 <br>  
 
-<p> Your learning will conclude with a fun interactive test to see if you're ready to visit Spain and fiesta the night away! Use the navigation buttons above to get started and explore. <i> ¡Buena suerte! </i> </p>
+<p> Your learning will conclude with a fun interactive test to see if you're ready to visit Spain and fiesta the night away! Use the navigation buttons above to get started and explore. </p>
+
+<div> <i> ¡Buena suerte! </i> </div>
 
 <!--ADD STYLE SHEETS LATER THEY HAVE STRETCHY BUTTONS-->
 

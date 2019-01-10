@@ -1,6 +1,7 @@
 <html lang="en">
 
    <h1> All You Need To Know For A Fun Trip To Spain </h1>
+   <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" alt="A flag of Spain.">
 <h2> Do you want to make the most of a trip to Spain? Look no further - you'll soon know enough to blend in with the natives. <h2>  
 
 <div> Or maybe not, but if you keep reading, we can give it a try. On this website, you'll learn about. . . </div>
@@ -21,6 +22,8 @@
 <br>  
 
 <p> Our learning will conclude with a fun interactive test to see if you're ready to visit Spain and fiesta the night away! Use the navigation buttons above to get started and explore. </p>
+
+
 
 <div style="text-align: right"> <i> ¡Buena suerte! </i> </div>
 

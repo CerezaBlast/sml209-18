@@ -9,18 +9,15 @@
  </a>
 
  <div> The biggest cities of Spain are. . . </div>
-  <dl>
-   <dt> Madrid </dt>
- <dd> As of the two capitals of Spain, this city has nearly <b> three million people! </b> 
-   <dt> Barcelona </dt>
- <dd> </dd>
-   <dt> Valencia</dt>
- <dd> </dd>
-   <dt> Sevilla </dt>
- <dd> </dd>
-   <dt> Zaragoza </dt>
- <dd> </dd>
-   <dt> Málaga </dt>
- <dd> </dd>
- 
-
+ <div id="table"> Madrid </div>
+ <div id="words"> what </div>
+ <div id="table">whwat </div>
+ <div id="words"> weras</div>
+ <div id="table"> asdf</div>
+ <div id="words"> asdf</div>
+ <div id="table">asdf </div>
+ <div id="words">adsf </div>
+ <div id="table">asdf asdf</div>
+ <div id="words">adsf asdf</div>
+ <div id="table">asdf </div>
+ <div id="words">asdf </div>

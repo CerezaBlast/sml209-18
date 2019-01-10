@@ -6,7 +6,7 @@
 
 <div> Or maybe not, but if you keep reading, we can give it a try. On this website, you'll learn about. . . </div>
 
-
+<br>
    <div id="table"> Culture </div>
    <div id="words"> On this page, we will learn about the main cities of Spain and what they're known for. We will find out about events, famous people, great food, and finish with an activity. </div>
    <br>
